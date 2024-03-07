@@ -1,0 +1,9 @@
+1- criar um repositorio
+2- copiar o endereço
+3- abrir o git bash na pasta que quer alocar o repositorio
+4- git clone www.github
+git
+
+git add .
+git commit -m "meu primeiro commit"
+git push
